@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="center">Hey 👋What's Up?</h2>
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
 
-<h5 data-importer="text" align="center">👋 Hi, I'm Lean, a backend-focused software engineer with a deep curiosity for Web3, DeFi, and blockchain forensics, plus hands-on experience building AI-powered systems with RAG/LLM pipelines. 🚀 I love turning complex ideas into working products, from on-chain analytics tools to LLM cost intelligence platforms, and I'm always up for a good hackathon. 🤝 Always building, always learning, and open to project collaborations, so feel free to reach out!</h5>
+<h3 data-importer="text" align="center">👋 Hi, I'm Lean, a backend-focused software engineer with a deep curiosity for Web3, DeFi, and blockchain forensics, plus hands-on experience building AI-powered systems with RAG/LLM pipelines. 🚀 I love turning complex ideas into working products, from on-chain analytics tools to LLM cost intelligence platforms, and I'm always up for a good hackathon. 🤝 Always building, always learning, and open to project collaborations, so feel free to reach out!</h3>
 
 ###
 
